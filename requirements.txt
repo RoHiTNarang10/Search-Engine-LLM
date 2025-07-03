@@ -30,3 +30,4 @@ youtube_transcript_api
 yt_dlp
 unstructured
 numexpr
+duckduckgo-search
